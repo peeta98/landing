@@ -1,0 +1,20 @@
+.banner {
+  background-image: url("https://pbs.twimg.com/media/FwJqRJLWAAAJYNu?format=jpg&name=large");
+  background-size: cover;
+  background-position: center;
+  padding: 300px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner h1 {
+  margin: 0px;
+  color: white;
+}
+
+.container p {
+  color: rgb(255, 255, 0);
+  opacity: 0.7;
+  font-size: 18px;
+}

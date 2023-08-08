@@ -1,0 +1,16 @@
+.btn-red {
+  padding: 15px 25px;
+  background-color: rgb(253, 70, 70);
+  color: white;
+  font-weight: bold;
+  border: 1px solid white;
+  border-radius: 25px;
+  transition: background-color, 0.3s ease;
+  display: inline-block;
+}
+
+.btn-red:hover {
+  color: black;
+  background-color: rgb(255, 255, 0);
+  border: 1px solid black;
+}
